@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+.vs/
+packages/
+TestNinja.sln
+TestNinja/bin
+TestNinja/obj
+TestNinja/Properties
+TestNinja/.DS_Store
+TestNinja.UnitTests/bin
+TestNinja.UnitTests/obj
+TestNinja.UnitTests/Properties
+TestResults/
